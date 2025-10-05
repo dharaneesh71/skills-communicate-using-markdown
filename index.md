@@ -14,12 +14,15 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 var myVar = "Hello, everyone!";
 ```
 
-
+- [ ] go to my repo
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
 
 
 
 
 i have edited index.md file
+
 
 
