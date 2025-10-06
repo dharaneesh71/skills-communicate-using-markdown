@@ -1,7 +1,7 @@
 # This is a Skills-Communicate-Using-Markdown assignment 
 ## VT is located at Potomac Yard
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://octodex.github.com/images/daftpunktocat-thomas.gif)
 
 
 ```
@@ -23,6 +23,7 @@ var myVar = "Hello, everyone!";
 
 
 i have edited index.md file
+
 
 
 
